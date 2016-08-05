@@ -1,0 +1,38 @@
+_repo: The-Village-Coquette--Or-The-Supposed-Lottery_7798
+_version: 0.0.1
+alternative_title: La coquette de village. English
+contributor:
+  translator:
+    agent_name: Morlock, Frank J.
+    gutenberg_agent_id: '1532'
+    url: http://www.gutenberg.org/2009/agents/1532
+creator:
+  author:
+    agent_name: Dufresny, Charles Rivière
+    aliases:
+    - Rivière Du Frény, Monsieur (Charles)
+    - La Rivière, Charles Dufresny, sieur de
+    - Riviere Du Freny, Monsieur (Charles)
+    - Fresny, Charles Rivière Du
+    - Dufresny, Charles, sieur de La Rivière
+    birthdate: 1657
+    deathdate: 1724
+    gutenberg_agent_id: '1565'
+    url: http://www.gutenberg.org/2009/agents/1565
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Rivière_Dufresny
+description: ''
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7798'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'French drama -- 18th century -- Translations into English'
+- !lcc 'PQ'
+- !lcsh 'Comedies'
+- GITenberg
+title: The Village Coquette; Or, The Supposed Lottery
+url: http://www.gutenberg.org/ebooks/7798
